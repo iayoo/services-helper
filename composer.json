@@ -1,0 +1,13 @@
+{
+    "name": "iayoo/services-helper",
+    "authors": [{
+        "name": "Iayoo",
+        "email": "vilnius94@163.com"
+    }],
+    "autoload": {
+        "psr-4": {
+            "Iayoo\\ServiceHelper\\": "src/"
+        }
+    },
+    "require": {}
+}
